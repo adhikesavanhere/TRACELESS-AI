@@ -1,0 +1,12 @@
+{
+    "test_samples": 114,
+    "primary_model_errors": 10,
+    "primary_model_error_rate": 0.08771929824561403,
+    "error_risk_auroc": 0.9706730769230769,
+    "error_risk_auprc": 0.753734827264239,
+    "raw_confidence_auroc": 0.989423076923077,
+    "risk_model_coverage": 0.8157894736842105,
+    "risk_model_selective_risk": 0.0,
+    "confidence_baseline_coverage": 0.9298245614035088,
+    "confidence_baseline_selective_risk": 0.02830188679245283
+}
